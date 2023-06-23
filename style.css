@@ -1,0 +1,28 @@
+body{
+              background-color: aquamarine;
+}
+
+h3{
+              color: blueviolet;
+}
+
+pre{
+              font-size: 20px;
+              color: red;
+}
+
+div{
+              width:500px;
+              height: 50px;
+              border: 2px solid black;
+              text-align: center;
+              font-size: 40px;
+              padding-top: 20px;
+              color: brown;
+              background-color: blanchedalmond;
+              font-style: italic;
+}
+
+p{
+              color:green;
+}
